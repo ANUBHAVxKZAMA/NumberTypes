@@ -23,14 +23,22 @@ Each Java file in this repo is a standalone program focused on identifying a spe
 
 ## How to Run
 
-# Clone the repository
-git clone https://github.com/ANUBHAVxKZAMA/NumberTypes.git
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/ANUBHAVxKZAMA/NumberTypes.git
 
-# Navigate into the directory
-cd NumberTypes
+2. **Navigate to the folder and compile any Java file**:
+3. **Run the compiled class**:
+---
 
-# Compile the Java file
-javac PalindromeNumber.java
+## Author
 
-# Run the program
-java PalindromeNumber
+**Anubhav Srivastava**  
+GitHub: [@ANUBHAVxKZAMA](https://github.com/ANUBHAVxKZAMA)
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+   
+   
