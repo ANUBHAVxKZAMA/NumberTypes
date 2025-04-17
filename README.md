@@ -23,7 +23,16 @@ Each Java file in this repo is a standalone program focused on identifying a spe
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ANUBHAVxKZAMA/NumberTypes.git
-   cd NumberTypes
+# CLONE REPO
+git clone https://github.com/ANUBHAVxKZAMA/NumberTypes.git
+cd NumberTypes
+
+# COMPILE ANY JAVA FILE
+javac FileName.java
+
+# RUN PROGRAM
+java FileName
+
+# EXAMPLE
+javac PalindromeNumber.java
+java PalindromeNumber
